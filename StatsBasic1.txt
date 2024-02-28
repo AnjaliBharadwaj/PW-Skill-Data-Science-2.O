@@ -1,0 +1,62 @@
+Q1. What is Statistics?
+=> It is science of collecting,analyzing the data for making better decision
+Q2. Define the different types of statistics and give an example of when each type might be used.
+=>2 Type of Statistics i) Descriptive =it consist of organizing and summarizing of data.
+
+ii) Inferential =it consist of using data the you measure from a conclusion
+Q3. What are the different types of data and how do they differ from each other? Provide an example of
+each type of data.
+
+=>Quantitative(Numerical):
+i) Discrete: whole number e.g 1,2,3,45 etc
+ii) Continuous : float number e.g height =6.2 feet, weight =59.5 kg etc
+
+Qualitative( Categorical):
+i)Nominal : which can have some range e.g Gender have range of M & F
+ii)Ordinal: which can be rank e.g feedbackfrom customer  from 1 to 10 scale
+
+Q4. Categorise the following datasets with respect to quantitative and qualitative data types:
+(i) Grading in exam: A+, A, B+, B, C+, C, D, E => Ordinal
+(ii) Colour of mangoes: yellow, green, orange, red =>Nominal(iii) Height data of a class: [178.9, 179, 179.5, 176, 177.2, 178.3, 175.8,...] =>Continuous(iv) Number of mangoes exported by a farm: [500, 600, 478, 672, ...] =>Discrete 
+
+Q5. Explain the concept of levels of measurement and give an example of a variable for each level.
+=>
+i) Nominal Scale data : it's a Qualitative which hase some range & order does not matter into this e.g Gender (Male ,Femal)
+ii)Ordinal Scale data: it's also Qualitative but into this ranking and order matter but it can not be measured difference because it not an numeric data
+e.g  PHD ,BE,Master, Bachelor degree you can ranking it but you can't find the difference  in PHD and in a Bachelorsiii)Internal scale Data : Temperature measured in Celsius degrees.
+iv)Ratio scale data: Weight measured in kilograms.
+
+Q6. Why is it important to understand the level of measurement when analyzing data? Provide an
+example to illustrate your answer.
+=>for accurate data analysis as it determines the appropriate statistical methods and interpretations; for instance, treating nominal data as ordinal 
+can lead to incorrect conclusions, such as ranking ethnicity 
+categories as 'higher' or 'lower.
+
+Q7. How nominal data type is different from ordinal data type.
+=> Nominal: if it is forming a certain range in categorical data type then it's a Nomial 
+=> Ordinal = if it's talk about ranking in categorical data hence it is ordinal data type
+
+Q8. Which type of plot can be used to display data in terms of range?
+=> Box plot 
+because of Upper Fence and Lower Fence you can easily find out
+
+Q9. Describe the difference between descriptive and inferential statistics. Give an example of each
+type of statistics and explain how they are used.
+=>
+ i) Descriptive =it consist of organizing and summarizing of data.
+it have measure of central tendency, measure of dispersion and graph such as Bar graph ,count plot ,etc
+ii) Inferential =it consist of using data the you measure from a conclusion
+it have Z-test, T_test, Hypothesis testing, etc
+
+Q10. What are some common measures of central tendency and variability used in statistics? Explain
+how each measure can be used to describe a dataset.
+
+=mean =sum of data/count of data 
+e.g = 1+2+3+4+5/5 = 3 
+
+
+
+  
+
+
+
